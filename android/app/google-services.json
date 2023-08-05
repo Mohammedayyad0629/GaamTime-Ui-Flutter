@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1047009803922",
+    "project_id": "chatgametime",
+    "storage_bucket": "chatgametime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047009803922:android:00fe6aa79e007d0267b04b",
+        "android_client_info": {
+          "package_name": "com.example.gaamtiime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047009803922-g8fo7htp7g6tkgupn0p07spu4kbpq503.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gaamtiime",
+            "certificate_hash": "7e4fa36348d7da3a8fcaa0750f924b12b00617e9"
+          }
+        },
+        {
+          "client_id": "1047009803922-d05cepcc4d7pbn1mu67vef1fo12aev0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo68abhYU-SldOG9_4b_86XBgmKxOWlW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047009803922-d05cepcc4d7pbn1mu67vef1fo12aev0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
